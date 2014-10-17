@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[snp:home|Door43 (snp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-snp|d43-snp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-snp/archive/master.zip|d43-snp.zip]]
+
+**Recent Changes**
+{{changes>ns = snp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/snp|Ethnologue data]]
+
